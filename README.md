@@ -103,7 +103,7 @@ This project has not been deployed yet.
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Abubakar Ummar**
+👤 **Mohame Eldeeb**
 
 - GitHub: [@eldeeb](https://github.com/eng-mohamed-eldeeb)
 - LinkedIn: [Mohamed Eldeeb](https://linkedin.com/in/eng-mohamed-eldeeb/)

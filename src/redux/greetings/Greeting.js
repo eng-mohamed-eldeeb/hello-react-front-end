@@ -5,7 +5,7 @@ const GET_GREETINGS = 'HELLO-REACT-FRONT-END/src/redux/greetings/getGreetings';
 
 const initialState = [];
 
-const getGreetingsApi = 'http://127.0.0.1:3000/api/greetings';
+const getGreetingsApi = 'http://localhost:3000/api/greetings';
 
 // action creators to get greetings
 export const getGreetings = createAsyncThunk(
