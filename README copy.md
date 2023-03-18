@@ -28,7 +28,7 @@
 
 # 📖 Hello React Front-End <a name="about-project"></a>
 
-**Hello React Front-End** is an app where I received and displayed greetings from an API called from [this back-end project](https://github.com/eng-mohamed-eldeeb/hello-rails-back-end)
+**Hello React Front-End** is an app where I received and displayed greetings from an API called from [this back-end project](https://github.com/Haywayaheadshot/hello-rails-back-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,7 +72,7 @@ In order to run this project you need:
 ### Setup
 Clone this repository to your desired folder:
 ```
-- To clone the repository run this command - "https://github.com/eng-mohamed-eldeeb/hello-react-front-end.git"
+- To clone the repository run this command - "https://github.com/Haywayaheadshot/hello-react-front-end.git"
 - cd hello-react-front-end
 ```
 ### Installation
@@ -103,10 +103,10 @@ This project has not been deployed yet.
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Mohame Eldeeb**
+👤 **Abubakar Ummar**
 
-- GitHub: [@eldeeb](https://github.com/eng-mohamed-eldeeb)
-- LinkedIn: [Mohamed Eldeeb](https://linkedin.com/in/eng-mohamed-eldeeb/)
+- GitHub: [@Haywayaheadshot](https://github.com/Haywayaheadshot)
+- LinkedIn: [Abubakar Ummar](https://www.linkedin.com/in/abubakar-ummar/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
